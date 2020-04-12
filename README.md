@@ -1,8 +1,8 @@
-# ReClass.NET-SamplePlugin
-Sample plugins for ReClass.NET (https://github.com/KN4CK3R/ReClass.NET).
+# ReClass.NET VMRead Plugin
+DMA plugin for ReClass.NET (https://github.com/KN4CK3R/ReClass.NET).
 
 ## Compiling
-If you want to compile the ReClass.NET Sample Plugins just fork the repository and create the following folder structure. If you don't use this structure you need to fix the project references.
+If you don't use the following folder hierarchy you need to fix the project references.
 
 ```
 ..\ReClass.NET\
