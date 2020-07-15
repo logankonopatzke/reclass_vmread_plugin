@@ -10,3 +10,6 @@ If you don't use the following folder hierarchy you need to fix the project refe
 ..\ReClass.NET-SamplePlugin
 ..\ReClass.NET-SamplePlugin\ReClass.NET SamplePlugin.sln
 ```
+
+## Note
+Page protections are NOT guaranteed to work and will be invalid due to a bad method of obtaining them from the VAD. (This pretty much makes the memory scanner useless)
